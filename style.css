@@ -1,0 +1,82 @@
+.box {
+	display: block;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	margin: 0;
+}
+.box-one {
+	background-color: #fda;
+}
+.box-two {
+	background-color: #d94;
+	top: 100px;
+}
+.box-three {
+	background-color: #fda;
+	top: 200px;
+}
+.box-four {
+	background-color: #d94;
+	top: 300px;
+}
+.box-five {
+	background-color: #fda;
+}
+.box-six {
+	background-color: #fda;
+}
+.desk {
+	position: absolute;
+	width: 804px;
+	height: 404px;
+	margin: auto;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	border: 2px solid;
+	border-color: black;
+}	
+.right {
+	left: 100px;
+}
+.color-change-1 {
+	background-color: #fda;
+}
+.color-change-2 {
+	background-color: #d94;
+}
+.right-plus {
+	left: 200px;
+}
+.right-plus-1 {
+	left: 300px;
+}
+.right-plus-2 {
+	left: 400px;
+}
+.right-plus-3 {
+	left: 500px;
+}
+.right-plus-4 {
+	left: 600px;
+}
+.right-plus-5 {
+	left: 700px;
+}
+.cheker {
+	display: block;
+	position: relative;
+	width: 90px;
+	height: 90px;
+	border-radius: 50%;
+	border: 3px solid white;
+	background-color: black;
+	margin: auto;
+	margin-top: 5px;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+}
